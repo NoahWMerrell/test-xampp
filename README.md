@@ -25,7 +25,7 @@ Steps to build and/or run the software:
 
 Instructions for using the software:
 
-1. Go to https://localhost/test/
+1. Go to https://localhost/test/.
 2. You will find a list of short messages, such as "Hello world!"
 3. You can use the search bar at the top to search and filter the messages.
 4. That's it, it's a fairly basic website designed to work with SQL and php!
@@ -45,7 +45,7 @@ I found these websites useful in developing this software:
 * [XAMPP](https://sourceforge.net/projects/xampp/)
 * [XAMPP FAQs for Linux](https://www.apachefriends.org/faq_linux.html)
 * [XAMPP FAQs for Windows](https://www.apachefriends.org/faq_windows.html)
-* [ChatGPT](https://chatgpt.com/) (used to help set up XAMPP and learn php)
+* [ChatGPT](https://chatgpt.com/) (Used to help set up XAMPP, learn php, and make some basic code to get started)
 
 ## Future Work
 
